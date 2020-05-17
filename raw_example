@@ -1,0 +1,6 @@
+import Examples as e
+e.fserver() # Flask Server
+e.nput() # User Input
+e.ftorial() # Factorial
+e.hello() # Hello World
+e.floop() # For loop
